@@ -18,6 +18,7 @@ This repository is to get desired data and organize them to help me find my next
     * Need to get your own free client number and security token for Authentication and Authorization.
     * There is 500 requests / day limit for free API usage. So clear your requirements first.
     * There is a test flag which need to set to False to get the live data.
+    * https://developer.domain.com.au/docs/introduction
     
 * **propertiesData**
 
